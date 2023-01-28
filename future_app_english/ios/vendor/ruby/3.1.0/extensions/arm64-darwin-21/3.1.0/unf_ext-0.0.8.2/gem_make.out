@@ -1,0 +1,16 @@
+current directory: /Users/kadriyemacit/Documents/GitHub/Future-App/future_app_english/ios/vendor/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+/opt/homebrew/opt/ruby/bin/ruby -I /opt/homebrew/Cellar/ruby/3.1.3/lib/ruby/3.1.0 extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/kadriyemacit/Documents/GitHub/Future-App/future_app_english/ios/vendor/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230128-59166-vdrtqi sitelibdir\=./.gem.20230128-59166-vdrtqi clean
+
+current directory: /Users/kadriyemacit/Documents/GitHub/Future-App/future_app_english/ios/vendor/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230128-59166-vdrtqi sitelibdir\=./.gem.20230128-59166-vdrtqi
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Users/kadriyemacit/Documents/GitHub/Future-App/future_app_english/ios/vendor/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230128-59166-vdrtqi sitelibdir\=./.gem.20230128-59166-vdrtqi install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20230128-59166-vdrtqi
