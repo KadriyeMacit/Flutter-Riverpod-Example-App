@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.future_app_english">
+    package="com.kadriye.future_app_english">
    <application
         android:label="future_app_english"
         android:name="${applicationName}"

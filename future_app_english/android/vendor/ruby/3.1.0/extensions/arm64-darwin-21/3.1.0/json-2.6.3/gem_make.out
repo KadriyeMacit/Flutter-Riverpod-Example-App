@@ -1,0 +1,13 @@
+current directory: /Users/kadriyemacit/Documents/GitHub/Future-App/future_app_english/android/vendor/ruby/3.1.0/gems/json-2.6.3/ext/json
+/opt/homebrew/opt/ruby/bin/ruby -I /opt/homebrew/Cellar/ruby/3.1.3/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/kadriyemacit/Documents/GitHub/Future-App/future_app_english/android/vendor/ruby/3.1.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230128-54049-q7zyu9 sitelibdir\=./.gem.20230128-54049-q7zyu9 clean
+
+current directory: /Users/kadriyemacit/Documents/GitHub/Future-App/future_app_english/android/vendor/ruby/3.1.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230128-54049-q7zyu9 sitelibdir\=./.gem.20230128-54049-q7zyu9
+make: Nothing to be done for `all'.
+
+current directory: /Users/kadriyemacit/Documents/GitHub/Future-App/future_app_english/android/vendor/ruby/3.1.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230128-54049-q7zyu9 sitelibdir\=./.gem.20230128-54049-q7zyu9 install
