@@ -35,4 +35,12 @@ platform :android do
     gradle(task: "clean assembleRelease")
     upload_to_play_store
   end
+
+  desc "Android slack"
+  gradle(task: "bundle",build_type: "Release")
+  lane :slack do
+    slack(message: "Android app successfully uploaded.", 
+    success: true, 
+    slack_url: "https://hooks.slack.com/services/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")
+  end
 end
